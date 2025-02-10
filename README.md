@@ -1,1 +1,1 @@
-# Estudos-NextJS
+# Estudos NextJS
